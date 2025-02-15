@@ -1,0 +1,17 @@
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.csproj.AssemblyReference.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.AssemblyInfoInputs.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.AssemblyInfo.cs
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.csproj.CoreCompileInputs.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Database/bin/Debug/net9.0/ETL.Database.deps.json
+/Users/vichea/github.com/ETL/ETL/ETL.Database/bin/Debug/net9.0/ETL.Database.runtimeconfig.json
+/Users/vichea/github.com/ETL/ETL/ETL.Database/bin/Debug/net9.0/ETL.Database.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Database/bin/Debug/net9.0/ETL.Database.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Database/bin/Debug/net9.0/ETL.Abstractions.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Database/bin/Debug/net9.0/ETL.Abstractions.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Data.F306DDB7.Up2Date
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/refint/ETL.Database.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ETL.Database.genruntimeconfig.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Database/obj/Debug/net9.0/ref/ETL.Database.dll

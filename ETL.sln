@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.API", "ETL.API\ETL.API.csproj", "{E494E778-A2D1-4D4B-A399-71BC34B39FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.Core", "ETL.Core\ETL.Core.csproj", "{BB7DFFB8-473A-4FCE-9AAA-44EB000C4725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.DataSources", "ETL.DataSources\ETL.DataSources.csproj", "{F5C89EF5-4F60-4E8C-B5BF-C041EEA6130F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.Database", "ETL.Database\ETL.Database.csproj", "{2757DAB3-255A-4A88-912E-2C86A018628F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.Outputs", "ETL.Outputs\ETL.Outputs.csproj", "{149C7E28-5E06-4C29-A36E-03369D91DC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.Transformations", "ETL.Transformations\ETL.Transformations.csproj", "{930A83AD-13E3-413D-9821-6CBD2A7F07EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.UI", "ETL.UI\ETL.UI.csproj", "{35CE91A2-000E-46E0-9120-73E52F41205C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL.Abstractions", "ETL.Abstractions\ETL.Abstractions.csproj", "{78F83D26-F9D2-4B33-827A-0A6138480E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E494E778-A2D1-4D4B-A399-71BC34B39FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E494E778-A2D1-4D4B-A399-71BC34B39FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E494E778-A2D1-4D4B-A399-71BC34B39FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E494E778-A2D1-4D4B-A399-71BC34B39FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB7DFFB8-473A-4FCE-9AAA-44EB000C4725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7DFFB8-473A-4FCE-9AAA-44EB000C4725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7DFFB8-473A-4FCE-9AAA-44EB000C4725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7DFFB8-473A-4FCE-9AAA-44EB000C4725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C89EF5-4F60-4E8C-B5BF-C041EEA6130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C89EF5-4F60-4E8C-B5BF-C041EEA6130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C89EF5-4F60-4E8C-B5BF-C041EEA6130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C89EF5-4F60-4E8C-B5BF-C041EEA6130F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2757DAB3-255A-4A88-912E-2C86A018628F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2757DAB3-255A-4A88-912E-2C86A018628F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2757DAB3-255A-4A88-912E-2C86A018628F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2757DAB3-255A-4A88-912E-2C86A018628F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149C7E28-5E06-4C29-A36E-03369D91DC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149C7E28-5E06-4C29-A36E-03369D91DC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149C7E28-5E06-4C29-A36E-03369D91DC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149C7E28-5E06-4C29-A36E-03369D91DC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930A83AD-13E3-413D-9821-6CBD2A7F07EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930A83AD-13E3-413D-9821-6CBD2A7F07EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930A83AD-13E3-413D-9821-6CBD2A7F07EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930A83AD-13E3-413D-9821-6CBD2A7F07EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CE91A2-000E-46E0-9120-73E52F41205C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CE91A2-000E-46E0-9120-73E52F41205C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CE91A2-000E-46E0-9120-73E52F41205C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CE91A2-000E-46E0-9120-73E52F41205C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F83D26-F9D2-4B33-827A-0A6138480E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F83D26-F9D2-4B33-827A-0A6138480E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F83D26-F9D2-4B33-827A-0A6138480E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F83D26-F9D2-4B33-827A-0A6138480E86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

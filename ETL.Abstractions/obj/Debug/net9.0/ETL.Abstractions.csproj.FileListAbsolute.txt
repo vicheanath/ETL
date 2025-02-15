@@ -1,0 +1,11 @@
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/bin/Debug/net9.0/ETL.Abstractions.deps.json
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/bin/Debug/net9.0/ETL.Abstractions.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/bin/Debug/net9.0/ETL.Abstractions.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ETL.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ETL.Abstractions.AssemblyInfoInputs.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ETL.Abstractions.AssemblyInfo.cs
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ETL.Abstractions.csproj.CoreCompileInputs.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ETL.Abstractions.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/refint/ETL.Abstractions.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ETL.Abstractions.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Abstractions/obj/Debug/net9.0/ref/ETL.Abstractions.dll

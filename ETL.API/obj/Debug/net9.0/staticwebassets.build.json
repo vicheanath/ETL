@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xwWSOlEnRtNE9y6F4h0sTgVufxtxSibc+pMgFgrmC7c=",
+  "Source": "ETL.API",
+  "BasePath": "_content/ETL.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

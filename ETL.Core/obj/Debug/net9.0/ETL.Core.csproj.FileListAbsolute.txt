@@ -1,0 +1,17 @@
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Core.deps.json
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Core.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Core.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Abstractions.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Database.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Database.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Core/bin/Debug/net9.0/ETL.Abstractions.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.csproj.AssemblyReference.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.AssemblyInfoInputs.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.AssemblyInfo.cs
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.csproj.CoreCompileInputs.cache
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.csproj.Up2Date
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/refint/ETL.Core.dll
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ETL.Core.pdb
+/Users/vichea/github.com/ETL/ETL/ETL.Core/obj/Debug/net9.0/ref/ETL.Core.dll
